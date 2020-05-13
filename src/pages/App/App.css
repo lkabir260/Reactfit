@@ -1,0 +1,19 @@
+.component {
+  border: 2px dotted red;
+  margin: 4px;
+  padding: 4px;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 50px;
+  padding: 10px;
+  color: white;
+  font-size: 22px;
+  text-align: center;
+}
+
